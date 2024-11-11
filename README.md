@@ -14,4 +14,17 @@ Notes:
 - Exports the zoneMatrix for direct use in other applications (see 180to1080.h) with origin (0,0) in the top left corner
 
 
-The app simulates a screen. You can mouse over the zones and the title of the graph will reflect the zone the mouse is hovered over (see testing.mp4)
+The app simulates a screen. You can mouse over the zones and the title of the graph will reflect the zone the mouse is hovered over (see testing.mp4 below)
+
+
+Below is 180 divisions which as can be seen is more than enough accuracy:
+
+<img width="428" alt="divisions" src="https://github.com/user-attachments/assets/70a17bfc-fed9-44cd-82b1-d681b84de161">
+
+
+Example of the mouse hovering over the zones:
+
+https://github.com/user-attachments/assets/60fd4a56-9486-45b2-8b36-1bb4371e4a0a
+
+
+
